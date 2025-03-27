@@ -1,5 +1,7 @@
 # Microbit & Scratch StarWars Game
 
+![Microbit & Scratch StarWars Game](screenshot.png)
+
 ## Overview
 
 Welcome to my little StarWars Game! As a huge Star Wars fan, I made this project with my kids using the BBC micro:bit and Scratch programming. It's a fun and educational way to explore coding and electronics ! Feel free to download & have fun !
@@ -47,7 +49,7 @@ Welcome to my little StarWars Game! As a huge Star Wars fan, I made this project
 
 1. **Avoid Enemies**: Tilt the micro:bit from left to righ to avoid enemies.
 2. **Destroy Enemies**: Hit A or B of the micro:bit to fire laser against enemies.
-3. **Score**: Each time an enemy is avoid, score inscrease by one.
+3. **Score**: Each time an enemy is hited, score inscrease by one.
 
 **End**: If an enemy hit you the game is over !
 
