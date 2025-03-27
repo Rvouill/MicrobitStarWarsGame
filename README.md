@@ -19,22 +19,24 @@ Welcome to my little StarWars Game! As a huge Star Wars fan, I made this project
 ## What We Learned
 
 **micro:bit: Supported Features in Scratch 3**
-- **micro:bit : Senor**: Implementation of micro:bit left/right tilt sensor.
+- **micro:bit : Senor**: Implementation of micro:bit left/right and up/down tilt sensor.
 - **micro:bit : Button**: Implementation of micro:bit Button.
 - **micro:bit : LEDs**: Implementation of micro:bit LEDs display.
 
 **Scratch 3 Concepts**
-- **Motions**: Use various concept to set & get positions of elements.
+- **ScrollingBackground**: Imeplement vertical scrolling background.
+- **Clone**: Use clone concept for moving elements
 - **Messages**: Use Scratch messages concept to send informations to sprites.
 - **Intersection**: Use intersection concept to manage collision between sprites.
-- **Variables**: Use veriables concept to store and give position, and also count points.
+- **Variables**: Use variables concept to store and give position, and also count points.
+- **MicroBitAddOn**: Use various concept to set & get microbit motion via sensor + buttons.
 
 ## Get Ready
 
 ### Prerequisites
 
 - A [BBC micro:bit](https://microbit.org/fr/)
-- Scratch programming environment (online or offline)
+- [Scratch](https://scratch.mit.edu/) programming environment (online or offline)
 
 ### Installation
 
