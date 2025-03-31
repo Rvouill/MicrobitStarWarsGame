@@ -28,7 +28,8 @@ Welcome to my little StarWars Game! As a huge Star Wars fan, I made this project
 - **Clone**: Use clone concept for moving elements
 - **Messages**: Use Scratch messages concept to send informations to sprites.
 - **Intersection**: Use intersection concept to manage collision between sprites.
-- **Variables**: Use variables concept to store and give position, and also count points.
+- **Controller**: Use a dedicated sprites to implement global logic.
+- **Variables**: Use variables concept to store and give position, and also count points and lives.
 - **MicroBitAddOn**: Use various concept to set & get microbit motion via sensor + buttons.
 
 ## Get Ready
@@ -51,9 +52,10 @@ Welcome to my little StarWars Game! As a huge Star Wars fan, I made this project
 
 1. **Avoid Enemies**: Tilt the micro:bit from left to righ to avoid enemies.
 2. **Destroy Enemies**: Hit A or B of the micro:bit to fire laser against enemies.
+3. **Lives**: Start with 3 lives, on each collision you lose one live.
 3. **Score**: Each time an enemy is hited, score inscrease by one.
 
-**End**: If an enemy hit you the game is over !
+**End**: If lose all youe lives the game is over !
 
 ## Contributing
 
